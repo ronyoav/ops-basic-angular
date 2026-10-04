@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url: 'http://16.16.110.231:8080/api'
+  url: 'https://ec2-stage.app.yoavron.com/api'
 };
 
 /*
